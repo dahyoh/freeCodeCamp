@@ -29,8 +29,15 @@ Unreal has gone through 4 major revisions. Although some code is common between 
 - Batman Arkham City
 - Mass Effect
 - Bioshock
+- BioShock 2
 - Borderlands
 - Gears of War
+- Spec Ops: The Line
+- Disney's Brother Bear
+- Clive Barker's Undying
+- Deus Ex- Spec Ops: The Line
+- Enslaved: Odyssey to the West
+- Adventure Pinball: Forgotten Island
 
 #### More Information:
 
